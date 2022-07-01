@@ -40,3 +40,4 @@ The following animation shows Emmet in action, it happens to be that "html:5" is
 that expands (select, and press TAB) to a basic HTML page that contains header, body and a few other useful lines of code<br>
 <br>
 <img src="/img/html5.gif" alt="Emmet in action"><br>
+You can see a huge amount of emmet abbreviations on what is called Emmet's cheat sheet available at: https://docs.emmet.io/cheat-sheet/
