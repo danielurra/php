@@ -38,3 +38,4 @@ by using both built-in and custom abbreviations that expands to full usefull lin
 On VScode Emmer is already included, you'll see a suggestion everytime an abbreviation is found<br>
 The following animation shows Emmet in action, it happens to be that "html:5" is a Emmet's abbreviation<br>
 that expands (select, and press TAB) to a basic HTML page<br>
+<img src="/img/html5.gif" alt="Emmet in action"><br>
