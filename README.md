@@ -33,8 +33,8 @@ otherwise the PHP interpreter won't be able to process the PHP script embedded i
 </html>
 ```
 # Emmet<br>
-Emmet is an add-on available for many text editors (VScode, Atom, etc.) that allow us to save time<br>
-by using both built-in/custom abbreviations that expands to full usefull lines of codes<br>
+Emmet is an add-on available for many text editors (VScode, Atom, Sublime, etc.) that allow us to save time<br>
+by using both built-in and custom abbreviations that expands to full usefull lines of codes<br>
 On VScode Emmer is already included, you'll see a suggestion everytime an abbreviation is found<br>
 The following animation shows Emmet in action, it happens to be that "html:5" is a Emmet's abbreviation<br>
 that expands (select, and press TAB) to a basic HTML page<br>
