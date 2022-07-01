@@ -9,7 +9,9 @@ are handled by your web browser, PHP scripts make use of the PHP interpreter, so
 and only after that, you'll be able to use php, the interpreter process the code and return the results to the <br>
 web server, in our case Apache, and Apache will pass it to the web browser<br>
 <img src="/img/1.PHP-variable-print-text.png" alt="PHP Basics"><br>
-## Copy the code
+## Copy the code<br>
+Even though our page uses HTML the file must be saved with <b>.php</b>extension<br>
+otherwise the PHP interpreter won't be able to process the PHP script embebbed into HTML<br>
 ```html
 <!DOCTYPE html>
 <html lang="en">
